@@ -37,7 +37,7 @@
     "n-readlines": "^1.0.0"
   },
   "devDependencies": {
-    "electron-packager": "^12.1.0",
+    "electron-packager": "^13.1.0",
     "electron-prebuilt": "^0.30.0"
   }
 }
